@@ -1,7 +1,5 @@
 # 👋 你好，我是寒枫
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=AI大模型产品开发工程师;多模态技术探索者;全栈开发实践者&font=Montserrat&color=36BCF7&center=true&width=800&height=40)](https://git.io/typing-svg)
-
 ## 📋 基本信息
 
 | 标签       | 详情                                           |
@@ -18,7 +16,7 @@
 
 ### 技能徽章
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)[![Vue3](https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org)[![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)[![AI/ML](https://img.shields.io/badge/AI-MachineLearning-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)[![FullStack](https://img.shields.io/badge/FullStack-000000?style=for-the-badge&logo=fullstack&logoColor=white)](https://en.wikipedia.org/wiki/Full-stack_development)[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://docs.ros.org/en/humble/)[![English](https://img.shields.io/badge/CET6-Excellent-1DA1F2?style=for-the-badge&logo=english&logoColor=white)](https://www.neea.edu.cn/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  [![Vue3](https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org)  [![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)[![AI/ML](https://img.shields.io/badge/AI-MachineLearning-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)  [![FullStack](https://img.shields.io/badge/FullStack-000000?style=for-the-badge&logo=fullstack&logoColor=white)](https://en.wikipedia.org/wiki/Full-stack_development)  [![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://docs.ros.org/en/humble/)  [![English](https://img.shields.io/badge/CET6-Excellent-1DA1F2?style=for-the-badge&logo=english&logoColor=white)](https://www.neea.edu.cn/)
 
 ---
 
