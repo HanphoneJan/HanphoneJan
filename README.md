@@ -66,4 +66,3 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=HanphoneJan&label=Profile%20Views&color=brightgreen&style=flat)](https://github.com/HanphoneJan)[![GitHub Stars](https://img.shields.io/github/stars/HanphoneJan?label=Total%20Stars&color=yellow&style=flat)](https://github.com/HanphoneJan?tab=repositories)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HanphoneJan&theme=radical)](https://git.io/streak-stats)
