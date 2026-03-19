@@ -10,7 +10,6 @@
 | ------------- | ------------------------------------------ |
 | 🎓 教育背景   | 电子科技大学 软件工程                      |
 | 🎯 技术方向   | 大模型应用开发、Agent开发                  |
-| ✉️ 联系方式 | janhizian@163.com                          |
 | 🌐 个人网站   | [hanphone.cn](https://hanphone.cn)            |
 | 🐙 GitHub     | [HanphoneJan](https://github.com/HanphoneJan) |
 
