@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=150&section=header&text=&fontSize=0" width="100%"/>
 <p align="center">
   <a href="https://hanphone.cn"><img src="https://img.shields.io/badge/🌐%20个人网站-hanphone.cn-2F80ED?style=for-the-badge" alt="Website"></a>
-  <a href="mailto:janhizian@qq.com"><img src="https://img.shields.io/badge/📧%20邮箱-janhizian@qq.com-EA4335?style=for-the-badge" alt="Email"></a>
   <a href="https://github.com/HanphoneJan"><img src="https://img.shields.io/badge/🐙%20GitHub-HanphoneJan-181717?style=for-the-badge" alt="GitHub"></a>
 </p>
 
@@ -9,8 +8,8 @@
 
 | 标签          | 详情                                       |
 | ------------- | ------------------------------------------ |
-| 🎓 教育背景   | 电子科技大学 软件工程本科在读              |
-| 🎯 研究方向   | 大模型应用开发、Agent开发                  |
+| 🎓 教育背景   | 电子科技大学 软件工程                      |
+| 🎯 技术方向   | 大模型应用开发、Agent开发                  |
 | ✉️ 联系方式 | janhizian@163.com                          |
 | 🌐 个人网站   | [hanphone.cn](https://hanphone.cn)            |
 | 🐙 GitHub     | [HanphoneJan](https://github.com/HanphoneJan) |
@@ -22,7 +21,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,c,vue,react,nextjs,spring,nodejs,tensorflow,pytorch,docker,git,github,linux,vscode,idea&perline=9" />
 </p>
-
 
 |   领域   | 技术                                            |
 | :-------: | :---------------------------------------------- |
