@@ -23,7 +23,6 @@
   <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,c,vue,react,nextjs,spring,nodejs,tensorflow,pytorch,docker,git,github,linux,vscode,idea&perline=9" />
 </p>
 
-### 核心技术
 
 |   领域   | 技术                                            |
 | :-------: | :---------------------------------------------- |
