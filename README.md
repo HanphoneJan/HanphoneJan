@@ -54,35 +54,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,1:764ba2&height=100&section=footer&fontSize=0" width="100%"/>
 
-## 🚀 精选项目
-
-<p align="center">
-  <a href="https://github.com/HanphoneJan/AutoBuy">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=HanphoneJan&repo=AutoBuy&theme=transparent&hide_border=true&description_lines_count=3&text_color=2F80ED&icon_color=2F80ED&title_color=2F80ED" />
-  </a>
-  <a href="https://github.com/HanphoneJan/hanphone-blog-web">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=HanphoneJan&repo=hanphone-blog-web&theme=transparent&hide_border=true&description_lines_count=3&text_color=2F80ED&icon_color=2F80ED&title_color=2F80ED" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/HanphoneJan/code-training">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=HanphoneJan&repo=code-training&theme=transparent&hide_border=true&description_lines_count=3&text_color=2F80ED&icon_color=2F80ED&title_color=2F80ED" />
-  </a>
-  <a href="https://github.com/HanphoneJan/transformer-practice">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=HanphoneJan&repo=transformer-practice&theme=transparent&hide_border=true&description_lines_count=3&text_color=2F80ED&icon_color=2F80ED&title_color=2F80ED" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/HanphoneJan/AiVoice">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=HanphoneJan&repo=AiVoice&theme=transparent&hide_border=true&description_lines_count=3&text_color=2F80ED&icon_color=2F80ED&title_color=2F80ED" />
-  </a>
-  <a href="https://github.com/HanphoneJan/hanphone-blog-server">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=HanphoneJan&repo=hanphone-blog-server&theme=transparent&hide_border=true&description_lines_count=3&text_color=2F80ED&icon_color=2F80ED&title_color=2F80ED" />
-  </a>
-</p>
-
 ## 🔍 访问统计
 
 <p align="center">
