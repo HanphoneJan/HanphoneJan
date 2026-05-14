@@ -11,7 +11,6 @@
 | 🎓 教育背景   | 电子科技大学 软件工程                      |
 | 🎯 技术方向   | 大模型应用开发、Agent开发                  |
 | 🌐 个人网站   | [hanphone.cn](https://hanphone.cn)            |
-| 🐙 GitHub     | [HanphoneJan](https://github.com/HanphoneJan) |
 
 ---
 
@@ -27,13 +26,6 @@
 |  🎨 前端  | Vue3 · React · Next.js · TypeScript          |
 | ⚙️ 后端 | Spring Boot · Node.js · FastAPI               |
 |  🔧 工具  | Docker · Git · Linux · ROS2                  |
-
-## 🏆 荣誉奖项
-
-|        🎓 学业荣誉        |           🏅 竞赛/实践           |
-| :-----------------------: | :-------------------------------: |
-| 成电优秀学生奖学金 (2024) | 服务外包创新创业大赛 - 全国三等奖 |
-|  维塔士企业奖学金 (2024)  |      社会实践个人之星 (2024)      |
 
 ---
 
