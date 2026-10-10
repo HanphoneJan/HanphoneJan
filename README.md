@@ -43,14 +43,4 @@
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanphoneJan&layout=compact&theme=transparent&hide_border=true&langs_count=8&card_width=320&locale=cn&text_color=2F80ED" />
   </a>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,1:764ba2&height=100&section=footer&fontSize=0" width="100%"/>
-
-
----
-
-<div align="center">
-**不骛于虚声，专注于实践。**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=150&section=footer&text=Stay%20Awesome!&fontSize=24&fontColor=fff" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=150&section=footer" width="100%"/>
